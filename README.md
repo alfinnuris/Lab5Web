@@ -65,7 +65,7 @@ dan jika nilai kurang dari 60 maka hasilnya tidak lulus
 ![image](https://user-images.githubusercontent.com/81596397/116138237-c01d9400-a6fe-11eb-8bc7-1c7ed368eb07.png)
 11. HTML DOM membuat daftar menu :
 
-![image](https://user-images.githubusercontent.com/81596397/116138417-fb1fc780-a6fe-11eb-8732-3467a70d8d0d.png)
+![image](https://user-images.githubusercontent.com/81596397/116140342-69658980-a701-11eb-8cd1-d7bba700f0bc.png)
 
 12. Pertanyaan dan Tugas
 
@@ -82,5 +82,6 @@ contoh ketika klik Sign in tanpa mengisi data maka muncul Alert
 ![image](https://user-images.githubusercontent.com/81596397/116139275-0a534500-a700-11eb-9af6-653ac8e68022.png)
 
 
+**Terimakasih**
 
 
