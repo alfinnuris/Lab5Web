@@ -77,7 +77,7 @@ HASIL
 
 ![image](https://user-images.githubusercontent.com/81596397/116138974-af215280-a6ff-11eb-9de4-7c8528581b01.png)
 
-contoh ketika klik Sign in tanpa mengisi data maka muncul Alert
+contoh ketika klik Sign in tanpa mengisi data maka muncul alert
 
 ![image](https://user-images.githubusercontent.com/81596397/116139275-0a534500-a700-11eb-9af6-653ac8e68022.png)
 
